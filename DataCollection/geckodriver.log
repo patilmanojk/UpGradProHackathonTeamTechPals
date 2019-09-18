@@ -1,0 +1,163 @@
+1568815962820	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/93/cv8d4r_j66bg7qr_9qfxm8n40000gn/T/rust_mozprofileaTBAsy"
+1568815964766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568815964766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568815964767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568815964767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568815968722	Marionette	INFO	Listening on port 62713
+1568815968786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://www.prokabaddi.com/static-assets/scripts/require.js, line 5: Error: Script error for "imagesloaded"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.prokabaddi.com/static-assets/scripts/require.js, line 5: Error: Script error for "vue"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.prokabaddi.com/static-assets/scripts/require.js, line 5: Error: Script error for "packery"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.prokabaddi.com/static-assets/scripts/require.js, line 5: Error: Script error for "twitter"
+http://requirejs.org/docs/errors.html#scripterror
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568814886596%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://www.prokabaddi.com/static-assets/common/js/handlebars.min.js?v=1.062, line 27: Error: You must pass a string or Handlebars AST to Handlebars.compile. You passed undefined
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://www.prokabaddi.com/static-assets/common/js/handlebars.min.js?v=1.062, line 27: Error: You must pass a string or Handlebars AST to Handlebars.compile. You passed undefined
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568816154119%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://www.prokabaddi.com/static-assets/common/js/handlebars.min.js?v=1.062, line 27: Error: You must pass a string or Handlebars AST to Handlebars.compile. You passed undefined
+JavaScript error: https://www.prokabaddi.com/static-assets/common/js/handlebars.min.js?v=1.062, line 27: Error: You must pass a string or Handlebars AST to Handlebars.compile. You passed undefined
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568816392824%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.prokabaddi.com/, line 690: ReferenceError: loadWidget is not defined
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.d6364fae9340b0be5f13818370141fd0.html?origin=https%3A%2F%2Fwww.prokabaddi.com, line 12: Error: Network error.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1568816635924	Marionette	INFO	Stopped listening on port 62713
+1568817470755	geckodriver	INFO	geckodriver 0.19.1
+1568817470769	geckodriver	INFO	Listening on 127.0.0.1:63673
+1568817472074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/93/cv8d4r_j66bg7qr_9qfxm8n40000gn/T/rust_mozprofile.PzdKyUIuKMA3"
+1568817473301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568817473301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568817473302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568817473302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568817473461	Marionette	TRACE	Received observer notification profile-after-change
+1568817473742	Marionette	TRACE	Received observer notification command-line-startup
+1568817473743	Marionette	TRACE	Received observer notification nsPref:changed
+1568817473743	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1568817474118	Marionette	TRACE	Received observer notification toplevel-window-ready
+1568817476686	Marionette	TRACE	Received observer notification marionette-startup-requested
+1568817476687	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1568817476695	Marionette	TRACE	All scripts recorded.
+1568817476695	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1568817476696	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1568817476696	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1568817476696	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1568817476697	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1568817476697	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1568817476697	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1568817476697	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1568817476770	Marionette	INFO	Listening on port 63684
+1568817476770	Marionette	DEBUG	Remote service is active
+1568817476831	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63786
+1568817476833	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1568817476833	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 48127, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1568817509704	geckodriver	INFO	geckodriver 0.19.1
+1568817509716	geckodriver	INFO	Listening on 127.0.0.1:63801
+1568817509894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/93/cv8d4r_j66bg7qr_9qfxm8n40000gn/T/rust_mozprofile.IMJyN6HubMAQ"
+1568817510723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568817510723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568817510724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568817510724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568817510883	Marionette	TRACE	Received observer notification profile-after-change
+1568817511012	Marionette	TRACE	Received observer notification command-line-startup
+1568817511012	Marionette	TRACE	Received observer notification nsPref:changed
+1568817511013	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1568817511300	Marionette	TRACE	Received observer notification toplevel-window-ready
+1568817513619	Marionette	TRACE	Received observer notification marionette-startup-requested
+1568817513620	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1568817513676	Marionette	TRACE	All scripts recorded.
+1568817513676	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1568817513677	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1568817513680	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1568817513680	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1568817513680	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1568817513680	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1568817513681	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1568817513682	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1568817513768	Marionette	INFO	Listening on port 63810
+1568817513769	Marionette	DEBUG	Remote service is active
+1568817513774	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63894
+1568817513779	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1568817513779	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1568817558037	geckodriver	INFO	geckodriver 0.19.1
+1568817558046	geckodriver	INFO	Listening on 127.0.0.1:63911
+1568817558248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/93/cv8d4r_j66bg7qr_9qfxm8n40000gn/T/rust_mozprofile.mgBpsiliCau3"
+1568817559011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568817559011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568817559011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568817559012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568817559219	Marionette	TRACE	Received observer notification profile-after-change
+1568817559368	Marionette	TRACE	Received observer notification command-line-startup
+1568817559369	Marionette	TRACE	Received observer notification nsPref:changed
+1568817559369	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1568817559696	Marionette	TRACE	Received observer notification toplevel-window-ready
+1568817562063	Marionette	TRACE	Received observer notification marionette-startup-requested
+1568817562064	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1568817562070	Marionette	TRACE	All scripts recorded.
+1568817562070	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1568817562070	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1568817562072	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1568817562072	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1568817562072	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1568817562072	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1568817562073	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1568817562073	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1568817562149	Marionette	INFO	Listening on port 63920
+1568817562149	Marionette	DEBUG	Remote service is active
+1568817562203	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:64004
+1568817562206	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1568817562207	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
